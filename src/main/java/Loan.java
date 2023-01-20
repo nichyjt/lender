@@ -20,7 +20,7 @@ public class Loan {
     public String getContactNumber() {
         return contactNumber;
     }
-
+    // dummy
     public void setPaid() {
         this.isPaid = true;
     }
